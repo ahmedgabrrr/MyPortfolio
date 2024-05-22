@@ -48,7 +48,7 @@ export const skillsSection: SkillsSectionType = {
       ],
       softwareSkills: [
         {
-          skillName: "",
+          //skillName: "",
           iconifyTag: "vscode-icons:file-type-html",
         },
         {
