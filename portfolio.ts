@@ -130,11 +130,6 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: "developer-portfolio",
-    desc: "",
-    github: "",
-  },
-  {
     name: "Blazo",
     desc: "An Ecommerce Platform, where you can buy what you need and complete your order with payment gateway.",
     github: "https://github.com/ahmedgabrrr/Blazo-e-commerce",
