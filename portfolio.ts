@@ -179,8 +179,8 @@ export const seoData: SEODataType = {
   title: "Ahmed Gabr",
   description: greetings.description,
   author: "Ahmed Gabr",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  image: "https://www.instagram.com/p/C5kdLuvCQ-Z/?igsh=djg3eTVucDdsbWhz",
+  url: "https://www.instagram.com/p/C5kdLuvCQ-Z/?igsh=djg3eTVucDdsbWhz",
   keywords: [
     "Ahmed",
     "Ahmed Gabr",
