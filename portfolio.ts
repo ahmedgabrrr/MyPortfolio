@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Ahmed",
   description:
     "I'm a passionate Frontend web developer with experience developing web applications with React.js,. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
-  resumeLink: "https://drive.google.com/file/d/1jdGxVjKBazRrYExNuC0defDiRAu0WC6O/view",
+  resumeLink: "https://drive.google.com/file/d/1kBH1cOeWW16eDwG6DbHPlYI1FaBXtaCH/view?usp=drivesdk",
 };
 
 export const openSource = {
