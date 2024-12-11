@@ -1,15 +1,4 @@
 
-
-## Sections
-
-✔️ Summary and About me\
-✔️ Skills\
-✔️ Education\
-✔️ Work Experience\
-✔️ Feedbacks\
-✔️ Projects\
-✔️ Github Profile
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing
