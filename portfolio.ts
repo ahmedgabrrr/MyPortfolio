@@ -130,21 +130,22 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
+    name: "Ai Chatbot",
+    desc: "Responsive, high-fidelity AI chat interface built on Next.js, Tailwind CSS (v4), and the Google Gemini API. It is designed to look premium, professional, an",
+    github: "https://github.com/ahmedgabrrr/AI-Chatbot",
+    link: "https://ai-chatbot-omega-indol.vercel.app/",
+  },
+  {
+    name: "NextPro Blog",
+    desc: "NextPro Blog is a modern, responsive, real-time blogging platform built with Next.js, Convex, and Better Auth. It features instant reactivity, live presence indicators showing active readers, real-time commenting, post likes, image uploads, and full light/dark theme support.",
+    github: "https://github.com/ahmedgabrrr/BlogPro",
+    link: "https://blog-pro-x7zh.vercel.app/",
+  },
+  {
     name: "Blazo",
     desc: "An Ecommerce Platform, where you can buy what you need and complete your order with payment gateway.",
     github: "https://github.com/ahmedgabrrr/Blazo-e-commerce",
     link: "https://6638fd5c456725ee7ca1a6ef--glittery-mousse-c58487.netlify.app/",
-  },
-  {
-    name: "Atlas",
-    desc: "Landing page built with react.js and bootstrap",
-    github: "https://github.com/ahmedgabrrr/atlas",
-    link: "https://ahmedgabrrr.github.io/atlas/",
-  },
-  {
-    name: "Book Store",
-    desc: "A Ecommerce Platform, done using :- React js - Node js - Express js - Tailwind css - Flowbite - MongoDB.",
-    github: "https://github.com/ahmedgabrrr/Book-Store",
   },
 ];
 
