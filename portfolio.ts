@@ -137,7 +137,7 @@ export const projects: ProjectType[] = [
   },
   {
     name: "NextPro Blog",
-    desc: "NextPro Blog is a modern, responsive, real-time blogging platform built with Next.js, Convex, and Better Auth. It features instant reactivity, live presence indicators showing active readers, real-time commenting, post likes, image uploads, and full light/dark theme support.",
+    desc: "NextPro Blog is a modern, responsive, real-time blogging platform built with Next.js, Convex, and Better Auth. It features instant reactivity, live presence indicators showing active readers, real-time commenting, post likes, image uploads.",
     github: "https://github.com/ahmedgabrrr/BlogPro",
     link: "https://blog-pro-x7zh.vercel.app/",
   },
